@@ -14,6 +14,7 @@ import javax.swing.JTextField;
 public class AplikacjaOk {
 //dodaje komentarz
 //dodaje komentarz2
+	//ciekawe co teraz sie stanie
 
 	private JFrame frame;
 
