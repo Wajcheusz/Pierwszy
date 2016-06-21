@@ -15,6 +15,7 @@ public class AplikacjaOk {
 //dodaje komentarz
 //dodaje komentarz2
 	//dodaje komentarz3
+	//dodaje komentarz4
 
 	private JFrame frame;
 
