@@ -13,10 +13,8 @@ import javax.swing.JTextField;
 
 public class AplikacjaOk {
 //dodaje komentarz
-//dodaje komentarz2
-	// komentarz3
-	//dodaje komentarz4
-	//dodaje komentarz5 i usuwam dodaje z 3
+
+//no powinno go nie byc
 
 	private JFrame frame;
 

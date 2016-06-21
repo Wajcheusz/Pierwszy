@@ -7,7 +7,6 @@ public class Maine {
 	
 	public enum Zwierz{
 		PIES(50,55), KOT(20,5), STRUS(190, 60);
-		
 		int wzrost;
 		private int waga;
 		
