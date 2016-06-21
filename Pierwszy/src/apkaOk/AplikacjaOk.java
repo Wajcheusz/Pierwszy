@@ -14,8 +14,9 @@ import javax.swing.JTextField;
 public class AplikacjaOk {
 //dodaje komentarz
 //dodaje komentarz2
-	//dodaje komentarz3
+	// komentarz3
 	//dodaje komentarz4
+	//dodaje komentarz5 i usuwam dodaje z 3
 
 	private JFrame frame;
 
