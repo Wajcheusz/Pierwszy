@@ -12,7 +12,9 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 public class AplikacjaOk {
-//dodaje komentarz1
+//dodaje komentarz
+//dodaje komentarz2
+
 	private JFrame frame;
 
 	/**
